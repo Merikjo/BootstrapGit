@@ -1,7 +1,10 @@
 ﻿body {
-    padding-top: 50px;
+    padding-top: 55px;
     padding-bottom: 20px;
 }
+
+.text-primary {
+  color: #133a5c !important;
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
